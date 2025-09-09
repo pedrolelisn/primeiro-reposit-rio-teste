@@ -1,2 +1,2 @@
-# primeiro-reposit-rio-teste
+# primeiro-repositorio-teste
 primeiro repositorio teste
