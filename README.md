@@ -9,3 +9,5 @@ git push origin
 TEXTO ALTERADO VIA GH REMOTE -- feito no git hub
 
 Para pegar atualizações realizadas no github faço um pull, comoando: git pull origin
+
+Fazendo uma segunda alteração do meu github e puxando para o repositório local 
